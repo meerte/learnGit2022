@@ -9,6 +9,9 @@ another expansion for Readme doc...
 
 dev1 branch has created and added some new lines to the readme doc
 
+********************************************
+cd ..  --> go one file back
+
 
 git diff
 git pull
